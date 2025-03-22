@@ -1,4 +1,4 @@
-public class App3 {
+public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Lista de Exerícios 3");
 

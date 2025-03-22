@@ -1,0 +1,36 @@
+# Evita arquivos de compilação
+bin/
+*.class
+
+# Evita logs e arquivos temporários
+*.log
+*.tmp
+
+# Ignora arquivos específicos de IDEs
+/.idea/
+/*.iml
+/.vscode/
+/.project
+/.classpath
+/.settings/
+
+# Ignora dependências geradas automaticamente
+/lib/
+/target/
+/out/
+
+# Arquivos de pacotes e builds
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Dumps de erro da JVM
+hs_err_pid*
+replay_pid*
+
+# Evita arquivos específicos do BlueJ
+*.ctxt

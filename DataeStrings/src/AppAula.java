@@ -1,11 +1,11 @@
-package DataeStrings;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class App6 {
+public class AppAula {
     public static void main(String[] args) throws Exception {
         Scanner entrada = new Scanner(System.in);
         int dia, mes, ano;
