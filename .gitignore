@@ -34,3 +34,4 @@ replay_pid*
 
 # Evita arquivos específicos do BlueJ
 *.ctxt
+.qodo
